@@ -2,4 +2,5 @@ Add your favorite animal below!
 Dog x2
 Pandas
 Bison
+Dolphin
 lion
