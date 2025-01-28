@@ -3,6 +3,7 @@ Cat
 Dog x2
 Pandas
 Bison
+Dolphin
 lion
 Centipede
 hippo
