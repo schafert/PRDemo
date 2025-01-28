@@ -1,6 +1,7 @@
 Add your favorite animal below!
+Dog
 Cat
-Dog x2
+Dog x3
 Pandas
 Bison
 Dolphin
