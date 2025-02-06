@@ -12,3 +12,6 @@ Dolphin
 lion
 Centipede
 hippo
+rabbit
+platypus
+
